@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T21:33:09.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3FINTHKeOBeBCuo8HkbT" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T21:40:20.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="i1ZJJ4zqvS50Ui9KY-KD" version="14.4.3" type="github">
   <diagram id="9Dp8UCiHJhZX9A7zY7ix" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2GFICvNMpx9i61T2xYFO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2GFICvNMpx9i61T2xYFO-2" target="2GFICvNMpx9i61T2xYFO-3">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2GFICvNMpx9i61T2xYFO-2" target="2GFICvNMpx9i61T2xYFO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-2" value="&lt;h4&gt;&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;Початок&lt;/font&gt;&lt;/h4&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-2" value="&lt;h4&gt;&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;Початок&lt;/font&gt;&lt;/h4&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2GFICvNMpx9i61T2xYFO-3">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2GFICvNMpx9i61T2xYFO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="240" as="targetPoint" />
             <Array as="points">
@@ -19,16 +19,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-3" value="&lt;font style=&quot;font-size: 11px&quot; face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;Ввід тексту для шифрування&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-3" value="&lt;font style=&quot;font-size: 11px&quot; face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;Ввід тексту для шифрування&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2GFICvNMpx9i61T2xYFO-8" target="2GFICvNMpx9i61T2xYFO-11">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2GFICvNMpx9i61T2xYFO-8" target="2GFICvNMpx9i61T2xYFO-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-8" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 12px&quot;&gt;Рахуємо довжину повідомлення – k&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-8" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 12px&quot;&gt;Рахуємо довжину повідомлення – k&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-11" value="&lt;font style=&quot;font-size: 11px&quot; face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;Ввід &quot;Ключа&quot; (кількості&lt;br&gt;&amp;nbsp;рядків матриці) – m&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-11" value="&lt;font style=&quot;font-size: 11px&quot; face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;Ввід &quot;Ключа&quot; (кількості&lt;br&gt;&amp;nbsp;рядків матриці) – m&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
