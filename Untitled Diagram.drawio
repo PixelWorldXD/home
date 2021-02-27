@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T21:47:12.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="A1BBY1z1UJrSRmV7z_d6" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T21:51:00.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="2PJsJPBf45QXxHRUHEkQ" version="14.4.3" type="github">
   <diagram id="9Dp8UCiHJhZX9A7zY7ix" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="2GFICvNMpx9i61T2xYFO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2GFICvNMpx9i61T2xYFO-8" target="2GFICvNMpx9i61T2xYFO-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2GFICvNMpx9i61T2xYFO-8" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 12px&quot;&gt;Рахуємо довжину повідомлення – k&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+        <mxCell id="2GFICvNMpx9i61T2xYFO-8" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 12px&quot;&gt;Рахується довжина повідомлення – k&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eneFcdt_gcRfUh5A6dOr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2GFICvNMpx9i61T2xYFO-11" target="eneFcdt_gcRfUh5A6dOr-1">
@@ -37,8 +37,8 @@
         <mxCell id="eneFcdt_gcRfUh5A6dOr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eneFcdt_gcRfUh5A6dOr-1" target="eneFcdt_gcRfUh5A6dOr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eneFcdt_gcRfUh5A6dOr-1" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Вирахуємо к-сть стовпців n за формулою&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;|(k-1) &lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;div &lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;n| + 1&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="160" height="80" as="geometry" />
+        <mxCell id="eneFcdt_gcRfUh5A6dOr-1" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Вираховується к-сть стовпців n за формулою&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;|(k-1) &lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;div &lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;n| + 1&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eneFcdt_gcRfUh5A6dOr-3" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Визначається нове розташування букви повідомлення – index за формулою&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;index = |m * (i mod n)| + |i div n|&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="240" height="120" as="geometry" />
