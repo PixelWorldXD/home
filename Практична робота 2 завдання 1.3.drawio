@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T21:41:30.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="Y7hhh5zz6xOzzJAWx5YY" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T21:42:23.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="KmdsOfSaLXQNJ3XIJhWr" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="703" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,8 +22,12 @@
         <mxCell id="QRq6WLCsMnN_rYqQwL6p-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="610" y="690" as="sourcePoint" />
-            <mxPoint x="740" y="400" as="targetPoint" />
+            <mxPoint x="80" y="710" as="sourcePoint" />
+            <mxPoint x="740" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="840" />
+              <mxPoint x="740" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kT5KfvmVQ0m3QfQf7nbg-0" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;Чи є &lt;br&gt;перешкода?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -95,7 +99,7 @@
         <mxCell id="-O6FgKp2v_EAUCKMPQ80-12" value="&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;Чи є &lt;br&gt;перешкода?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="408" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-O6FgKp2v_EAUCKMPQ80-13" value="Ні" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-12">
+        <mxCell id="-O6FgKp2v_EAUCKMPQ80-13" value="Ні" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=none;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-12">
           <mxGeometry y="-8" relative="1" as="geometry">
             <mxPoint x="190" y="380" as="sourcePoint" />
             <mxPoint x="220" y="720" as="targetPoint" />
