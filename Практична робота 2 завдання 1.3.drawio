@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T21:50:15.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="7Gy5wSiP8PTDe6YbR1tL" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T21:50:33.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="rKPAPLUFc2hLSYJGxDkg" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1456" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="919" pageHeight="840" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="919" pageHeight="840" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="219" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QRq6WLCsMnN_rYqQwL6p-1" value="&lt;h4&gt;&lt;font face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot; style=&quot;font-size: 13px&quot;&gt;Початок&lt;/font&gt;&lt;/h4&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="70" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QRq6WLCsMnN_rYqQwL6p-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QRq6WLCsMnN_rYqQwL6p-1" target="kT5KfvmVQ0m3QfQf7nbg-0" edge="1">
           <mxGeometry relative="1" as="geometry">
