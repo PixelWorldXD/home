@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T21:42:23.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="KmdsOfSaLXQNJ3XIJhWr" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T21:45:45.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="ZRz-frcSzZSRwpFo5UK8" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1456" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="80" y="710" as="sourcePoint" />
-            <mxPoint x="740" y="390" as="targetPoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="840" />
               <mxPoint x="740" y="840" />
@@ -60,7 +60,7 @@
         <mxCell id="-O6FgKp2v_EAUCKMPQ80-4" value="&lt;font face=&quot;montserrat&quot; style=&quot;font-size: 13px&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;Поворот на право на 90&lt;/font&gt;&lt;span style=&quot;color: rgb(221 , 221 , 221) ; text-align: left ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot; face=&quot;montserrat&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=montserrat&quot;&gt;°&lt;br&gt;Крок вперед&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="200" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-O6FgKp2v_EAUCKMPQ80-5" value="&lt;font face=&quot;montserrat&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Якщо є вихід&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-O6FgKp2v_EAUCKMPQ80-5" value="&lt;font face=&quot;montserrat&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Є вихід?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-O6FgKp2v_EAUCKMPQ80-6" value="Ні" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-5" target="-O6FgKp2v_EAUCKMPQ80-12">
@@ -100,7 +100,7 @@
           <mxGeometry x="100" y="408" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-O6FgKp2v_EAUCKMPQ80-13" value="Ні" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=none;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-12">
-          <mxGeometry y="-8" relative="1" as="geometry">
+          <mxGeometry x="-0.9537" y="-8" relative="1" as="geometry">
             <mxPoint x="190" y="380" as="sourcePoint" />
             <mxPoint x="220" y="720" as="targetPoint" />
             <mxPoint as="offset" />
