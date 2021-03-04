@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T21:50:52.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="do2dBKqGufOE7EVWHEzB" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T21:52:51.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="2JTKZLGG20r47ff8SeYn" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1698" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="919" pageHeight="840" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="919" pageHeight="840" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -72,8 +72,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-O6FgKp2v_EAUCKMPQ80-7" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-5">
-          <mxGeometry y="8" relative="1" as="geometry">
+        <mxCell id="-O6FgKp2v_EAUCKMPQ80-7" value="Так" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dmontserrat;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-O6FgKp2v_EAUCKMPQ80-5" target="-O6FgKp2v_EAUCKMPQ80-9">
+          <mxGeometry x="0.4458" y="10" relative="1" as="geometry">
             <mxPoint x="270" y="370" as="sourcePoint" />
             <mxPoint x="459.9999999999998" y="359.9999999999999" as="targetPoint" />
             <mxPoint as="offset" />
